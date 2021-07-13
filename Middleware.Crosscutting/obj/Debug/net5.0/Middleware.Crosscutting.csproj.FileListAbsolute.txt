@@ -1,0 +1,12 @@
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\bin\Debug\net5.0\Middleware.Crosscutting.deps.json
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\bin\Debug\net5.0\Middleware.Crosscutting.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\bin\Debug\net5.0\ref\Middleware.Crosscutting.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\bin\Debug\net5.0\Middleware.Crosscutting.pdb
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\obj\Debug\net5.0\Middleware.Crosscutting.csproj.AssemblyReference.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\obj\Debug\net5.0\Middleware.Crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\obj\Debug\net5.0\Middleware.Crosscutting.AssemblyInfoInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\obj\Debug\net5.0\Middleware.Crosscutting.AssemblyInfo.cs
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\obj\Debug\net5.0\Middleware.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\obj\Debug\net5.0\Middleware.Crosscutting.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\obj\Debug\net5.0\ref\Middleware.Crosscutting.dll
+C:\Users\Filipe Encarnacao\Desktop\C#\Middleware_Layers\Middleware.Crosscutting\obj\Debug\net5.0\Middleware.Crosscutting.pdb
